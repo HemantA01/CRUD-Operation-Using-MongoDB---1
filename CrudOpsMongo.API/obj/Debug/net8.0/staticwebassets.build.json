@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "M38ZW7RpPG+nGo6B7NShRRWJIQehd1QJ4IOTqgC5UJc=",
+  "Source": "CrudOpsMongo.API",
+  "BasePath": "_content/CrudOpsMongo.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

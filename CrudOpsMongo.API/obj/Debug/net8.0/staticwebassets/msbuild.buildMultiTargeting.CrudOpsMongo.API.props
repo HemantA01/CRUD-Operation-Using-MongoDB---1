@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CrudOpsMongo.API.props" />
+</Project>
